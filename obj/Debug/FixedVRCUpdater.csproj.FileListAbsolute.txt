@@ -1,0 +1,13 @@
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\obj\Debug\FixedVRCUpdater.csproj.AssemblyReference.cache
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\obj\Debug\FixedVRCUpdater.csproj.CoreCompileInputs.cache
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\bin\Debug\FixedVRCUpdater.dll.config
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\bin\Debug\FixedVRCUpdater.dll
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\bin\Debug\FixedVRCUpdater.pdb
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\bin\Debug\MelonLoader.dll
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\obj\Debug\FixedVRCUpdater.csproj.CopyComplete
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\obj\Debug\FixedVRCUpdater.dll
+C:\Users\astd\source\repos\FixedVRCUpdater\FixedVRCUpdater\obj\Debug\FixedVRCUpdater.pdb
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\FixedVRCUpdater.dll.config
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\FixedVRCUpdater.dll
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\FixedVRCUpdater.pdb
